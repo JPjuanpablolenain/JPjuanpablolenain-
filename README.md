@@ -9,12 +9,12 @@
 <h2>🌐 Languages I Know</h2>
 <ul>
   <li>
-    <img src="https://via.placeholder.com/30" alt="Python Logo" style="vertical-align: middle;"> Python
+    <img src="python-logo.png" alt="Python Logo" style="width: 30px; vertical-align: middle;"> Python
   </li>
   <li>
-    <img src="https://via.placeholder.com/30" alt="Java Logo" style="vertical-align: middle;"> Java
+    <img src="java-logo.png" alt="Java Logo" style="width: 30px; vertical-align: middle;"> Java
   </li>
   <li>
-    <img src="https://via.placeholder.com/30" alt="SQL Logo" style="vertical-align: middle;"> SQL
+    <img src="sql-logo.png" alt="SQL Logo" style="width: 30px; vertical-align: middle;"> SQL
   </li>
 </ul>
