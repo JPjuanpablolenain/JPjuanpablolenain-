@@ -6,3 +6,15 @@
 
 <p>🔍 Always eager for opportunities that boost my professional and personal development. I’m ready to create, innovate, and collaborate on projects that make a real impact!</p>
 
+<h2>🌐 Languages I Know</h2>
+<ul>
+  <li>
+    <img src="https://via.placeholder.com/30" alt="Python Logo" style="vertical-align: middle;"> Python
+  </li>
+  <li>
+    <img src="https://via.placeholder.com/30" alt="Java Logo" style="vertical-align: middle;"> Java
+  </li>
+  <li>
+    <img src="https://via.placeholder.com/30" alt="SQL Logo" style="vertical-align: middle;"> SQL
+  </li>
+</ul>
