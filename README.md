@@ -1,20 +1,15 @@
-<h1>👋 Hi there! I'm Juan Pablo</h1>
 
-<p>🎓 I'm a Programming Technician student at UTN, passionate about continuous learning and developing new skills, whether through self-teaching or guided instruction.</p>
+    <h1>👋 Hi there! I'm Juan Pablo</h1>
 
-<p>🚀 I firmly believe that <em>the sky is the limit</em>, and it's up to each of us to decide how high we want to go. With that mindset, I’m always seeking new challenges that test my knowledge and help me grow, because I know the best way to learn is by putting what I know into practice.</p>
+    <p>🎓 I'm a Programming Technician student at UTN, passionate about continuous learning and developing new skills, whether through self-teaching or guided instruction.</p>
 
-<p>🔍 Always eager for opportunities that boost my professional and personal development. I’m ready to create, innovate, and collaborate on projects that make a real impact!</p>
+    <p>🚀 I firmly believe that <em>the sky is the limit</em>, and it's up to each of us to decide how high we want to go. With that mindset, I’m always seeking new challenges that test my knowledge and help me grow, because I know the best way to learn is by putting what I know into practice.</p>
 
-<h2>🌐 Languages I Know</h2>
-<ul>
-  <li>
-    <img src="python-logo.png" alt="Python Logo" style="width: 30px; vertical-align: middle;"> Python
-  </li>
-  <li>
-    <img src="java-logo.png" alt="Java Logo" style="width: 30px; vertical-align: middle;"> Java
-  </li>
-  <li>
-    <img src="sql-logo.png" alt="SQL Logo" style="width: 30px; vertical-align: middle;"> SQL
-  </li>
-</ul>
+    <p>🔍 Always eager for opportunities that boost my professional and personal development. I’m ready to create, innovate, and collaborate on projects that make a real impact!</p>
+
+    <h2>Technologies I Know:</h2>
+    <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>SQL</li>
+    </ul>
